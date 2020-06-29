@@ -1,0 +1,261 @@
+html{
+     scroll-behavior: smooth;
+ }
+
+ *{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+body{
+
+    text-align:center;
+    padding: 0;
+    margin: 0;
+}
+.navbar-brand img{
+  border-radius: 50%;
+length:15%;
+width:15%;
+}
+
+
+
+
+.entry-div{
+    background-color :#E0FFFF;
+
+}
+
+.title{
+    font-size:900% ;
+    padding:80px;
+    font-family :Lovers Quarrel;
+
+    color:#40E0D0;
+}
+
+.entry-p{
+
+    font-size:300% ;
+    font-family: Amatic SC;
+
+    padding-bottom:0 0 50px 0 ;
+}
+
+
+.entry-div img{
+  height: 20%;
+    width: 20%;
+    border-top-left-radius:100%;
+    border-top-right-radius:100%;
+border-bottom-left-radius:100%;
+border-bottom-right-radius:100%;
+}
+
+.intro{
+    text-align: center;
+    background-color: #FFFAFA;
+}
+
+.intro img{
+width: 200px;
+border-radius: 50%;
+padding-top: 3%;
+padding-bottom: 3%;
+}
+
+.entry-p-intro{
+    font-family: Yanone Kaffeesatz;
+    font-size: 30px;
+        text-decoration: underline;
+        padding-bottom:4%;
+}
+
+.border-1{
+    border-width: 3px;
+    border-style: dotted;
+    width: 50px;
+    display: inline-block;
+    border-color: rgb(5, 224, 231);
+    border-radius: 7px;
+
+}
+.border-2{
+    border-width: 3px;
+    border-style: dotted;
+    width: 50px;
+    display: inline-block;
+    border-color: rgb(5, 224, 231);
+    border-radius: 7px;
+}
+.border-3{
+    border-width: 3px;
+    border-style: dotted;
+    width: 50px;
+    display: inline-block;
+    border-color: rgb(5, 224, 231);
+    border-radius: 7px;
+}
+
+.border-4{
+    border-width: 3px;
+    border-style: dotted;
+    width: 50px;
+    display: inline-block;
+    border-color: rgb(5, 224, 231);
+    border-radius: 7px;
+}
+
+
+.skills-1 img{
+    width: 400px;
+    border-radius: 50%;
+    float: left;
+    padding: 0 20px 0;
+}
+
+.skills-1{
+    padding: 30px 100px;
+}
+.skills-1 h1{
+    font-family:Kumar One;
+    text-decoration: underline;
+    color: 	#2F4F4F	 ;
+    font-size: 70px;
+    padding-bottom: 10%;
+    padding-top: 6%;
+
+}
+
+.skills-2 img{
+    width: 410px;
+    border-radius:50%;
+    float: right;
+
+}
+
+.skills-3 img{
+    width: 410px;
+    border-radius:50%;
+    float: left;
+
+}
+.skills-4 img{
+    width: 410px;
+    border-radius:50%;
+    float: right;
+}
+#s-a{
+  background-color: #FFFAFA;
+}
+.skills-1 p{
+    font-size: 30px;
+font-family: Satisfy;
+    padding-bottom: 8%;
+    padding-right: 60px;
+    color:#FF69B4;
+
+}
+.skills-2 p{
+    font-size:30px;
+    font-family: Satisfy;
+    padding-left: 60px;
+    padding-bottom: 15%;
+    color:#FF69B4;
+
+}
+.skills-3 p{
+    font-size:30px;
+    font-family: Satisfy;
+    padding-left: 60px;
+    padding-bottom: 10%;
+    color:#FF69B4;
+
+}
+.skills-4 p{
+    font-size:30px;
+    font-family: Satisfy;
+    padding-left: 60px;
+    padding-bottom: 20%;
+    color:#FF69B4;
+}
+.skills-1 h3{
+    font-family:Italianno;
+    font-size: 50px;
+    text-align: center;
+    padding-0%;
+    color:	#1E90FF	 ;
+text-decoration-color: 	#1E90FF	;
+}
+.skills-2 h3{
+  font-family:Italianno;
+    font-size: 50px;
+    text-align: center;
+    padding-0%;
+    color:	#1E90FF	 ;
+text-decoration-color: 	#1E90FF	;
+}
+.skills-3 h3{
+  font-family:Italianno;
+    font-size: 50px;
+    text-align: center;
+    padding-0%;
+    color:	#1E90FF	 ;
+text-decoration-color: 	#1E90FF	;
+}
+.skills-4 h3{
+  font-family:Italianno;
+    font-size: 50px;
+    text-align: center;
+    padding-0%;
+    color:	#1E90FF	 ;
+text-decoration-color: 	#1E90FF	;
+}
+
+#get-in-touch{
+  font-family: Bungee Shade;
+  text-decoration: underline;
+  text-decoration-style: solid;
+  padding-top: 3%;
+  padding-bottom:3%;
+  font-size:30px;
+  background-color: #E0FFFF;
+}
+#footer h3{
+  font-family:Charmonman;
+  padding-top:%;
+font-size: 35px;
+padding-bottom: ;
+background-color: 	#FAEBD7;
+text-decoration: underline;
+}
+#footer h2{
+  font-family:Fredericka the Great;
+  padding-top:3%;
+font-size: 30px;
+}
+#footer h2{
+  font-family:Fredericka the Great;
+  padding-top: 1%;
+padding-bottom:3%;
+font-size: 30px;
+color:#FF4500;
+
+}
+#f2 img{
+  width:5%;
+  height:5%;
+  padding-bottom:8%;
+  padding-top: 5%;
+
+}
+
+#c{
+  background-color: #F5FFFA;
+}
